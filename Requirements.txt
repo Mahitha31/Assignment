@@ -1,0 +1,12 @@
+Installed Python- Python version 3.12.4
+
+Python Packages- 
+    1. requests(for making HTTP requests to fetch web pages)
+    2. beautifulsoup4 (for parsing HTML and extracting data)
+    3. pandas (for organizing the scraped data and saving it to CSV file)
+
+Installing Python Packages-
+
+    pip install requests
+    pip install beautifulsoup4
+    pip install pandas
